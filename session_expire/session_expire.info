@@ -1,0 +1,12 @@
+name = Session Expire
+description = Expires rows from the session table older than a certain time.
+core = 7.x
+
+files[] = session_expire.module
+
+; Information added by drupal.org packaging script on 2013-10-01
+version = "7.x-1.0-alpha1+4-dev"
+core = "7.x"
+project = "session_expire"
+datestamp = "1380627406"
+
